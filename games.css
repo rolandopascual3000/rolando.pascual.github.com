@@ -1,0 +1,46 @@
+
+
+body {
+background-color: black;
+}
+
+ul{
+  float: center;
+  text-align: center;
+  padding: 10px 30px;
+  font-size: 40px;
+  border: 5px solid aqua;
+  letter-spacing: 5;
+  font-family: Cambria, serif;
+  word-spacing: 60px;
+}
+
+ul li {
+color: aqua;
+
+}
+
+h1{
+  
+  color: #FF0000;
+
+}
+h2 {
+color: aqua;
+font-size: 50px;
+}
+
+p{
+  color: blue;
+font-size: 20px;
+
+
+}
+hr{
+  border-color: aqua;
+  border-style: none;
+  border-width: 10px;
+  width: 50%;
+  border-top-style: dotted;
+
+}

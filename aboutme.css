@@ -1,0 +1,25 @@
+. img {
+border-radius: 50%;
+}
+
+body {
+background-color: black;
+}
+  
+ul{
+  float: center;
+  text-align: center;
+  padding: 10px 30px;
+  font-size: 40px;
+  border: 5px solid aqua;
+  letter-spacing: 5;
+  font-family: Cambria, serif;
+  word-spacing: 60px;
+}
+
+td {
+   font-family: Cambria, serif;
+    font-size: 20px;
+    color: aqua;
+
+}
